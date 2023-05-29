@@ -1,0 +1,6 @@
+19:29:20 =>[error] first log message!
+19:29:20 =>[error] /home/yangzhan/mprpc/mprpc/example/Callee/friendservice.cc:main:44
+19:35:27 =>[error] first log message!
+19:35:27 =>[error] /home/yangzhan/mprpc/mprpc/example/Callee/friendservice.cc:main:44
+19:55:32 =>[error] first log message!
+19:55:32 =>[error] /home/yangzhan/mprpc/mprpc/example/Callee/friendservice.cc:main:44
